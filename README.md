@@ -8,3 +8,6 @@ to control and manage your home automation.
 You will have nothing but to launch the executable file and enter the name of your Web Host address and folder name;
 
 More details and information can be found in the SMART HOME.pdf document.
+
+https://play.google.com/store/apps/details?id=patrikdreamjob.smarthome_one
+
